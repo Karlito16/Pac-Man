@@ -1,0 +1,25 @@
+|==========================================================|
+| Update 1.0				Date: 21.05.2020.  |
+|----------------------------------------------------------|
+| What's new:						   |
+|	- fixed "end screen" glitch			   |
+|	- fixed characters ghostings while overlapping     |
+|	- new visual mode				   |
+|	- new enemy spawning system			   |
+|	- new character speed (slower, easier to control)  |
+|	- new window size				   |
+|	- new character size  	                           |
+|	- new scoring system				   |
+|	- added more maps				   |
+|	- added more wall colors			   |
+|----------------------------------------------------------|
+|						Karlito    |
+|==========================================================|
+| Update 1.1				Date: 24.05.2020.  |
+|----------------------------------------------------------|
+| What's new:						   |
+|	- new color for enemy4 				   |
+|	- temporarily removed ESCAPE (program exit) option |
+|----------------------------------------------------------|
+|						Karlito    |
+|==========================================================|
